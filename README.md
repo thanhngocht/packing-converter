@@ -1,7 +1,5 @@
 # PDF sang Excel
-
-Ứng dụng đọc bảng trong PDF, ghép ba cột đầu thành `SỐ LÔ` và bung
-`UNIT WEIGHT` hoặc `BOX WEIGHT` thành từng dòng `TRỌNG LƯỢNG`.
+Chuyển đổi packing pdf sang excel
 
 ## Chạy trên máy
 
