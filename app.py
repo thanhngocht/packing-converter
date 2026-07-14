@@ -70,10 +70,10 @@ def convert_uploaded_pdf(uploaded_file):
 
 
 st.title("Chuyển PDF sang Excel")
-st.caption(
-    "Ghép 3 cột đầu thành SỐ LÔ và tách UNIT WEIGHT/BOX WEIGHT "
-    "thành từng dòng trọng lượng."
-)
+# st.caption(
+#     "Ghép 3 cột đầu thành SỐ LÔ và tách UNIT WEIGHT/BOX WEIGHT "
+#     "thành từng dòng trọng lượng."
+# )
 
 uploaded_files = st.file_uploader(
     "Chọn một hoặc nhiều file PDF",
